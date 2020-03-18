@@ -1,0 +1,8 @@
+*.cbp
+*.layout
+*.exe
+*.o
+*.txt
+bin/
+obj/
+CPP1/Program1/
