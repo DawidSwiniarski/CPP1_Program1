@@ -8,7 +8,6 @@ int nr_tel;
 
 
 int main() {
-    cout << "Zmiana hihi";
     cout << "Podaj imie: ";
     cin >> imie;
     cout << "Podaj nazwisko: ";
