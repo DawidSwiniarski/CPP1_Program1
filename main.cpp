@@ -20,3 +20,4 @@ int main() {
     plik << imie << endl << nazwisko << endl << nr_tel;
     plik.close();
 };
+//dupa
