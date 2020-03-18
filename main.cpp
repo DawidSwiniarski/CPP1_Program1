@@ -21,3 +21,4 @@ int main() {
     plik.close();
 };
 //dupa
+sdsd
