@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codeblocks
 *.cbp
 *.layout
@@ -34,4 +35,42 @@
 # Executables
 *.exe
 *.out
+=======
+# Codeblocks
+*.cbp
+*.layout
+*.txt
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+>>>>>>> 342e29f62938948d45ca9a655c475f6db9ca1e41
 *.app
